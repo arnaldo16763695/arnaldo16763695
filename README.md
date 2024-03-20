@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnaldo16763695&label=Profile%20views&color=0e75b6&style=flat" alt="arnaldo16763695" /> </p>
 
-- 🌱 I’m currently learning **React, talwind css, php, javascript and something else**
+
 
 - 📫 How to reach me **arnaldoespinoza1@gmail.com arnaldoespinoza1@hotmail.com**
 
